@@ -1,0 +1,13 @@
+#include<stdio.h>
+void main()
+{
+	int a,b,c,d;
+	printf(a+b-c);
+	/* printf(b); */
+	printf(c*d);
+	/* printf(d); */
+	// Hello
+
+}
+
+
